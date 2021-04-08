@@ -1,3 +1,3 @@
 function alert(){
-  window.alert("You clicked this");
+  document.body.innerHTML = "<h2> clicked </h2>";
 }
